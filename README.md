@@ -15,3 +15,8 @@ Before: Incorrectly treated rating updates as new ratings After: Properly differ
 🔧 Key Improvements
 
 Accurate Averages: The rating system now maintains mathematical precision Update-Safe: Users can modify their ratings without breaking the average calculation Validation: All interactions require valid, registered users Data Consistency: Proper initialization prevents undefined behavio
+
+Contract detailed : 0x11e26dEf2ffE4F68D5c620b7C0E5B8a4976b3fCD
+
+<img width="1919" height="975" alt="Screenshot 2025-09-27 122957" src="https://github.com/user-attachments/assets/c9340c87-529c-48dc-b35f-8f77334910e9" />
+
